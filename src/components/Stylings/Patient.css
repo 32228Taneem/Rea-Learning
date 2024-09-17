@@ -1,0 +1,13 @@
+.patent-container{
+    text-align: center;
+    background-image: url("https://cdn.pixabay.com/photo/2024/04/10/00/46/hospital-8687007_640.jpg");
+    background-size: cover;
+    min-height: 90vh;
+    margin-top: -2%;
+    /* position:sticky; */
+}
+.patent-container form{
+    border: 3px solid black;
+    margin: 1% 30%;
+    padding: 1%;
+}
